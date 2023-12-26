@@ -1,9 +1,9 @@
-# Todo List API running on a Ktor Server
+# Todo List API using Ktor
 
 ## Running
 
-To run the code on your local machine, clone the repo
+This is a sample API to perform CRUD operations for Todo List entirely written in Kotlin
 
 ```bash
-TODO
+run Application.kt
 ```
